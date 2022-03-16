@@ -106,3 +106,8 @@ https://knowledge.udacity.com/questions/812435
 https://udacity.zendesk.com/hc/en-us/requests/1548452
 
 
+## Further improvements
+
+Steps to improve the project in the future:
+1. Additional Benchmarking step can be performed to load-test the model
+2. The pipeline script needs to be updated in the starter files and successfully ran
