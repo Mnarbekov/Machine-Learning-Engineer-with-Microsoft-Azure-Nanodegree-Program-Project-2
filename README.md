@@ -5,12 +5,19 @@ In the Machine Learning Engineer with Microsoft Azure – Project 2, I was confi
 I was using the Bank Marketing dataset (which was used in Project 1). I prepared a screencast video and screenshots.
 
 In this project, I have completed (or attempt to complete) the following steps:
+
 •	Authentication
+
 •	Automated ML Experiment
+
 •	Deploy the best model
+
 •	Enable logging
+
 •	Swagger Documentation
+
 •	Consume model endpoints
+
 •	Create and publish a pipeline (issue with the script provided – issue raised to the support)
 
 
