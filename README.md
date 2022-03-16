@@ -21,8 +21,12 @@ In this project, I have completed (or attempt to complete) the following steps:
 •	Create and publish a pipeline (issue with the script provided – issue raised to the support)
 
 
+
 ## Architectural Diagram
-*TODO*: Provide an architectual diagram of the project and give an introduction of each step. An architectural diagram is an image that helps visualize the flow of operations from start to finish. In this case, it has to be related to the completed project, with its various stages that are critical to the overall flow. For example, one stage for managing models could be "using Automated ML to determine the best model". 
+The following Architectural Diagram outlines the project key steps, please see more details for each step with screenshots in the next section. 
+
+![Screenshot]( https://github.com/Mnarbekov/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree-Program-Project-2/blob/main/Screenshots/00%20-%20Architectural%20Diagram.png)
+
 
 
 ## Key Steps
