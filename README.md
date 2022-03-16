@@ -100,6 +100,14 @@ Screenshot 15 - Use Run Widget
 Screenshot 16 - Scheduled run
 ![Screenshot](https://github.com/Mnarbekov/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree-Program-Project-2/blob/main/Screenshots/16%20-%20Scheduled%20run.png)
 
+Screenshot 17 - Published Pipeline Overview
+![Screenshot](https://github.com/Mnarbekov/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree-Program-Project-2/blob/main/Screenshots/17%20-%20Published%20Pipeline%20Overview.png)
+
+Screenshot 18 - Completed Pipeline Run
+![Screenshot](https://github.com/Mnarbekov/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree-Program-Project-2/blob/main/Screenshots/18%20-%20Completed%20Pipeline%20Run.png)
+
+Screenshot 19 - Published Pipeline Run
+![Screenshot](https://github.com/Mnarbekov/Machine-Learning-Engineer-with-Microsoft-Azure-Nanodegree-Program-Project-2/blob/main/Screenshots/19%20-%20Published%20Pipeline%20Run.png)
 
 
 ## Screen Recording
